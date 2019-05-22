@@ -1,0 +1,15 @@
+C:\Users\apurv\Desktop\CMPS 358\Assignments\pa9_C00219921_C00124478\pa9_C00219921_C00124478\bin\Debug\pa9_C00219921_C00124478.exe.config
+C:\Users\apurv\Desktop\CMPS 358\Assignments\pa9_C00219921_C00124478\pa9_C00219921_C00124478\bin\Debug\pa9_C00219921_C00124478.exe
+C:\Users\apurv\Desktop\CMPS 358\Assignments\pa9_C00219921_C00124478\pa9_C00219921_C00124478\bin\Debug\pa9_C00219921_C00124478.pdb
+C:\Users\apurv\Desktop\CMPS 358\Assignments\pa9_C00219921_C00124478\pa9_C00219921_C00124478\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\apurv\Desktop\CMPS 358\Assignments\pa9_C00219921_C00124478\pa9_C00219921_C00124478\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\apurv\Desktop\CMPS 358\Assignments\pa9_C00219921_C00124478\pa9_C00219921_C00124478\bin\Debug\Newtonsoft.Json.dll
+C:\Users\apurv\Desktop\CMPS 358\Assignments\pa9_C00219921_C00124478\pa9_C00219921_C00124478\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\apurv\Desktop\CMPS 358\Assignments\pa9_C00219921_C00124478\pa9_C00219921_C00124478\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\apurv\Desktop\CMPS 358\Assignments\pa9_C00219921_C00124478\pa9_C00219921_C00124478\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\apurv\Desktop\CMPS 358\Assignments\pa9_C00219921_C00124478\pa9_C00219921_C00124478\bin\Debug\Newtonsoft.Json.xml
+C:\Users\apurv\Desktop\CMPS 358\Assignments\pa9_C00219921_C00124478\pa9_C00219921_C00124478\obj\Debug\pa9_C00219921_C00124478.csprojAssemblyReference.cache
+C:\Users\apurv\Desktop\CMPS 358\Assignments\pa9_C00219921_C00124478\pa9_C00219921_C00124478\obj\Debug\pa9_C00219921_C00124478.csproj.CoreCompileInputs.cache
+C:\Users\apurv\Desktop\CMPS 358\Assignments\pa9_C00219921_C00124478\pa9_C00219921_C00124478\obj\Debug\pa9_C00219921_C00124478.csproj.CopyComplete
+C:\Users\apurv\Desktop\CMPS 358\Assignments\pa9_C00219921_C00124478\pa9_C00219921_C00124478\obj\Debug\pa9_C00219921_C00124478.exe
+C:\Users\apurv\Desktop\CMPS 358\Assignments\pa9_C00219921_C00124478\pa9_C00219921_C00124478\obj\Debug\pa9_C00219921_C00124478.pdb
